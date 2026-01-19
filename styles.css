@@ -9,3 +9,7 @@
 .product__photo{
 	display: flex;
 }
+.cart{
+	background-color:red;
+	color: white;
+}
