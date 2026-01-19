@@ -1,1 +1,11 @@
 /* your code here */
+*{
+	background-color: seagreen;
+}
+.img-1{
+	display: center;
+	justify-items: center;
+}
+.product__photo{
+	display: flex;
+}
